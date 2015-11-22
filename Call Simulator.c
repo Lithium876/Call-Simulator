@@ -1,7 +1,7 @@
 /*
 Class Day & time: Wednesdays 3 - 5pm
-ID    : 1401375 & 1403821
-Authors: Lomar Lilly & Gavin Buckley 
+ID    : 1401375
+Authors: Lomar Lilly
 Coruse: Programming 2
 */
 
